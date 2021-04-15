@@ -1,0 +1,2 @@
+# gmbd_retail_individual
+GMBD\2021-01-23 - TERM 3\ANALYTICS FOR RETAIL CONSUMER GOODS (MBD-EN-BL2020J-1_32R213_387060)\Individual assignment
